@@ -11,9 +11,6 @@ body {
   height: 100vh;
   background-color: #ff6247;
   min-width: 500px;
-  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-  animation-iteration-count: infinite;
 }
 #right {
   display: flex;
