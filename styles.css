@@ -19,12 +19,14 @@ body {
   width: 50%;
   height: 100vh;
   min-width: 500px;
+
+  align-items: center;
 }
 #textbox {
+  display: flex;
   flex-basis: 500px;
-  margin-top: 45%;
-  margin-left: 70px;
-  margin-right: 70px;
+  margin-right: 15%;
+  margin-left: 15%;
 
 }
 p {
@@ -98,9 +100,7 @@ span {
   min-width: 400px;
 }
 
-#textbox {
-  margin-top: 55%;
-}
+
 
 p {
   font-size: 40px;
@@ -128,7 +128,4 @@ p {
   min-width: 300px;
 }
 
-#shapebox {
-
-}
 }
