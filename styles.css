@@ -60,7 +60,7 @@ span {
     -moz-transform: rotate(45deg);
      -ms-transform: rotate(45deg);
       -o-transform: rotate(45deg);
-      animation-duration: 4s;
+      animation-duration: 6s;
       animation-name: pulse;
       animation-iteration-count: infinite;
         animation-direction: normal;
@@ -91,11 +91,11 @@ span {
 @media screen and (max-width: 768px) {
 
 #left {
-  min-width: 300px;
+  min-width: 400px;
 }
 
 #right {
-  min-width: 300px;
+  min-width: 400px;
 }
 
 #textbox {
