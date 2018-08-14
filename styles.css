@@ -1,7 +1,9 @@
 body {
   margin: 0 0;
-
+  cursor: crosshair;
 }
+
+
 #container {
   display: flex;
 }
